@@ -1,0 +1,12 @@
+Name                                      Application ID                         Version    Branch   Installation
+GitKraken                                 com.axosoft.GitKraken                  6.5.3      stable   system
+Discord                                   com.discordapp.Discord                 0.0.10     stable   system
+PhpStorm                                  com.jetbrains.PhpStorm                 2019.3.3   stable   system
+Visual Studio Code                        com.visualstudio.code                  1.42.1     stable   system
+Freedesktop Platform                      org.freedesktop.Platform               19.08.7    19.08    system
+default                                   org.freedesktop.Platform.GL.default               19.08    system
+Intel                                     org.freedesktop.Platform.VAAPI.Intel              19.08    system
+openh264                                  org.freedesktop.Platform.openh264                 19.08    system
+Freedesktop SDK                           org.freedesktop.Sdk                    19.08.7    19.08    system
+GNOME Application Platform version 3.34   org.gnome.Platform                                3.34     system
+ 
