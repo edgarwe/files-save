@@ -1,0 +1,3 @@
+# Url du lien firefox color
+
+https://color.firefox.com/?theme=XQAAAAL_AAAAAAAAAABBKYhm849SCia2CaaEGccwS-xNKlhK3D2G8NhCzoNehZAsRaWUnFE5tFEMJuMNFH84NfPtENF2QUrRi6lml_MoLcM8ggJKlxdm4rjRTaeTR8ZBqS9O5Mkx87N87tXMUBXAd2FVRgT15ST3fl18cOHPhUtanc1CLE7gipwHpUbvlHE5Ij40AKeWzPOg_XO0-cP_-cJ2Jw
